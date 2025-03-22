@@ -1,0 +1,9 @@
+// Description: This file contains the required libraries for the project.
+google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
+ipywidgets==7.7.1
+matplotlib==3.10.0
+numpy==2.0.2
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+tensorflow==2.18.0
+tensorflow-datasets==4.9.8
